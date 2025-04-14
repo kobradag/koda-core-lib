@@ -18,7 +18,7 @@ Adding Kobracore to your app's `package.json`:
 
 ```json
 "dependencies": {
-    "kobradag/kobracore-lib": "*"
+    "kobradag/core-lib": "*"
 }
 ```
 
